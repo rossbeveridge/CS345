@@ -1,8 +1,6 @@
 
 # CS345: Machine learning Foundations and Practice
 
-<img style="padding: 10px; float:right;" alt="CC-BY-SA icon.svg in public domain" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg" width="125">
-
 This repository contains a set of Jupyter notebooks for Colorado State University's introductory machine learning course [CS345: Machine Learning Foundations and Practice](https://www.cs.colostate.edu/~cs345/).
 
 <img style="padding: 10px; float:right;" alt="CSU" src="https://static.colostate.edu/logo/reslogo-v2/assets/img/csu-responsive-symbol.min.svg" width="1500">
